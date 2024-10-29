@@ -1,4 +1,5 @@
 https://github.com/jazmincappo/proyectosunset/raw/d5017b3f975fb049cdcd687b7e7e8d21f61d0a1f/XaerosWorldMap_1.39.0_Forge_1.18.2.jar,XaerosWorldMap_1.39.0_Forge_1.18.2.jar
 https://github.com/jazmincappo/proyectosunset/raw/6b596cd5f70fec37a568ec5926f509abab4ab37e/Xaeros_Minimap_24.4.0_Forge_1.18.2.jar,Xaeros_Minimap_24.4.0_Forge_1.18.2.jar
 https://github.com/jazmincappo/proyectosunset/raw/6b596cd5f70fec37a568ec5926f509abab4ab37e/another_furniture-forge-1.2.2-1.18.2.jar,another_furniture-forge-1.2.2-1.18.2.jar
-
+https://github.com/jazmincappo/proyectosunset/raw/fab066f9df15c91d6376ddf31f9bcb3dc90a79ee/1.18.2.SecurityCraft.v1.9.7.jar,1.18.2.SecurityCraft.v1.9.7.jar
+https://github.com/jazmincappo/proyectosunset/raw/e254913ef4f14817eaa6254ec8be3a07c709afb7/alexsmobs-1.18.6.jar,alexsmobs-1.18.6.jar
