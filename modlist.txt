@@ -1,3 +1,5 @@
-https://drive.google.com/uc?export=download&id=1rP0CVOKhxDiT3ELP61ySIdYqkuEVnVNq,[1.18.2] SecurityCraft v1.9.7.jar
-https://drive.google.com/uc?export=download&id=1FVvpgPMhTZaw4EsAj4fqNpxeVzBXWQ8c,alexsmobs-1.18.6.jar.jar
-https://drive.google.com/uc?export=download&id=1y03etoptyON1c9cBeLo2dAmkS1xRuXYM,another_furniture-forge-1.2.2-1.18.2.jar.jar
+https://github.com/jazmincappo/proyectosunset/raw/d5017b3f975fb049cdcd687b7e7e8d21f61d0a1f/XaerosWorldMap_1.39.0_Forge_1.18.2.jar,XaerosWorldMap_1.39.0_Forge_1.18.2.jar
+https://github.com/jazmincappo/proyectosunset/raw/6b596cd5f70fec37a568ec5926f509abab4ab37e/Xaeros_Minimap_24.4.0_Forge_1.18.2.jar,Xaeros_Minimap_24.4.0_Forge_1.18.2.jar
+https://github.com/jazmincappo/proyectosunset/raw/6b596cd5f70fec37a568ec5926f509abab4ab37e/%5B1.18.2%5D%20SecurityCraft%20v1.9.7.jar,%5B1.18.2%5D%20SecurityCraft%20v1.9.7.jar
+https://github.com/jazmincappo/proyectosunset/raw/6b596cd5f70fec37a568ec5926f509abab4ab37e/alexsmobs-1.18.6.jar,alexsmobs-1.18.6.jar
+https://github.com/jazmincappo/proyectosunset/raw/6b596cd5f70fec37a568ec5926f509abab4ab37e/another_furniture-forge-1.2.2-1.18.2.jar,another_furniture-forge-1.2.2-1.18.2.jar
